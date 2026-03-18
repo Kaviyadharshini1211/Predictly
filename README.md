@@ -1,6 +1,5 @@
 # 🧠 Smart Price Prediction System
 
-**Dataset Link:** [https://huggingface.co/spaces/Vinod84288/Predictly/tree/main](https://huggingface.co/spaces/Vinod84288/Predictly/tree/main)
 **🌐 Live Demo:** [https://predictly-ten.vercel.app/](https://predictly-ten.vercel.app/)
 
 Built with:
